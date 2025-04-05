@@ -1,7 +1,9 @@
 "use client"
 
+import { motion } from "framer-motion"
 import Image from "next/image"
 import Link from "next/link"
+import { Facebook, Twitter, Instagram, Youtube, Linkedin } from 'lucide-react'
 
 const footerLinks = {
   services: {

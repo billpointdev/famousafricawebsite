@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="790a7672-20cb-4ae6-b310-5d533a8cb0f2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/usable/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/usable/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/9jabillpoint-design.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/9jabillpointicon 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/9jabp.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +64,7 @@
       <workItem from="1738404667162" duration="651000" />
       <workItem from="1739260661793" duration="26000" />
       <workItem from="1743809007165" duration="10934000" />
-      <workItem from="1743835130419" duration="328000" />
+      <workItem from="1743835130419" duration="1349000" />
     </task>
     <servers />
   </component>
